@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "molho italiano",
+      "price": "20.20",
+      "description": "Prato típico italiano",
+      "available": true,
+      "id": 4
     }
   ]
 }
